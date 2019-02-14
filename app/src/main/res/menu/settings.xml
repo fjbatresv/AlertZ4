@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:id="@+id/suspects"
+        android:title="@string/suspects" />
+    <item android:id="@+id/emergencies"
+        android:title="@string/emergencies" />-->
+    <item android:id="@+id/fcm"
+        android:title="Recibir Notificaciones" />
+    <item android:id="@+id/logout"
+        android:title="@string/logout"/>
+</menu>

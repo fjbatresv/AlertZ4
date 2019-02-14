@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>SHAKE_THRESHOLD</key>
+        <value>5000</value>
+    </entry>
+    <entry>
+        <key>EMERGENCY_DELAY</key>
+        <value>5</value>
+    </entry>
+    <entry>
+        <key>EMERGENCY_PHONES</key>
+        <value>42491978,45445744</value>
+    </entry>
+    <entry>
+        <key>ADMIN_CODE</key>
+        <value>Tec18</value>
+    </entry>
+</defaultsMap>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlertZ4</string>
+    <string name="login_error">No hemos podido iniciar sesión, intentalo de nuevo mas tarde</string>
+    <string name="default_notification_channel_id">ALERTZ4</string>
+    <string name="logout">Salir</string>
+    <string name="suspects">Sospechosos</string>
+    <string name="emergencies">Emergencias</string>
+    <string name="new_emergency">Nueva Emergencia</string>
+    <string name="emergencySent">Emergencia Enviada</string>
+    <string name="enviar">Enviar</string>
+    <string name="new_suspect">Nuevo Sospechoso</string>
+    <string name="add_image">Agregar imagen</string>
+    <string name="descripcion">Descripción</string>
+    <string name="sospechosoDone">Sospechoso registrado</string>
+    <string name="okbtn">Ok</string>
+</resources>

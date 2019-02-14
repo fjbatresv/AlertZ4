@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="alertz4_pic"
+        path="Android/data/gt.edutec.z4.alertz4/files/Pictures" />
+</paths>

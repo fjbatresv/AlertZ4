@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginActivity">
+
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="gt.edutec.z4.alertz4.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="gt.edutec.z4.alertz4.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/suspectActivity"
+        android:name="gt.edutec.z4.alertz4.SuspectActivity"
+        android:label="activity_suspect"
+        tools:layout="@layout/activity_suspect" />
+    <activity
+        android:id="@+id/suspectDetailActivity"
+        android:name="gt.edutec.z4.alertz4.SuspectDetailActivity"
+        android:label="activity_suspect_detail"
+        tools:layout="@layout/activity_suspect_detail" />
+    <activity
+        android:id="@+id/emergencyActivity"
+        android:name="gt.edutec.z4.alertz4.EmergencyActivity"
+        android:label="activity_emergency"
+        tools:layout="@layout/activity_emergency" />
+</navigation>
